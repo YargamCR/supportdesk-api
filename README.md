@@ -1,5 +1,7 @@
 # SupportDesk API
 
+[![SupportDesk API Tests](https://github.com/YargamCR/supportdesk-api/actions/workflows/tests.yml/badge.svg)](https://github.com/YargamCR/supportdesk-api/actions/workflows/tests.yml)
+
 A RESTful IT support ticket management API built with **Python, FastAPI, SQLAlchemy, and SQLite**.
 
 SupportDesk API provides endpoints to create, retrieve, update, delete, and list IT support tickets. It includes request validation, database persistence, pagination, priority filtering, and automated tests.
